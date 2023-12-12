@@ -8,5 +8,6 @@ namespace lv0
 {
     internal class Teacher
     {
+        int a = 10;
     }
 }
